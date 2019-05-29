@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  margin: 30px 15px;
+  max-width: 100%;
 }
 
 .App-logo {
@@ -21,6 +22,25 @@
 
 .App-link {
   color: #61dafb;
+}
+
+table {
+  border-collapse: collapse;
+  max-width: 100%;
+}
+td {
+  padding: 5px 15px;
+  border: 1px solid #ccc;
+}
+
+.ChannelOpened {
+  background-color: #d4fad3;
+}
+.ChannelClosed {
+  background-color: #ffdada;
+}
+.ChannelSettled {
+  background-color: #dbe9ff;
 }
 
 @keyframes App-logo-spin {

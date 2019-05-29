@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChannelOpenItem Shoulde render a ChannelOpenItem 1`] = `
+<tr>
+  <td>
+    3
+  </td>
+  <td>
+    24
+  </td>
+  <td>
+    0x0E809A051034723beE67871a5A4968aE22d36C5A
+  </td>
+  <td>
+    0x504300C525CbE91Adb3FE0944Fe1f56f5162C75C
+  </td>
+</tr>
+`;

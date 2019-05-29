@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EventItem Shoulde render a EventItem 1`] = `
+<tr
+  className="ChannelSettled"
+>
+  <td>
+    4
+  </td>
+  <td>
+    log_0xe37b602261c301b249f0be08ab7da077db0d94372ea034278b57eab2ebecda59
+  </td>
+  <td>
+    26
+  </td>
+  <td>
+    ChannelSettled
+  </td>
+</tr>
+`;

@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChannelList Shoulde render a EventList 1`] = `
+<table>
+  <tbody>
+    <tr>
+      <th>
+        #
+      </th>
+      <th>
+        Channel Identifier:
+      </th>
+      <th>
+        Participant1:
+      </th>
+      <th>
+        Participant2:
+      </th>
+    </tr>
+    <tr>
+      <td>
+        0
+      </td>
+      <td>
+        24
+      </td>
+      <td>
+        0x0E809A051034723beE67871a5A4968aE22d36C5A
+      </td>
+      <td>
+        0x504300C525CbE91Adb3FE0944Fe1f56f5162C75C
+      </td>
+    </tr>
+    <tr>
+      <td>
+        1
+      </td>
+      <td>
+        27
+      </td>
+      <td>
+        0x2046F7341f15D0211ca1EBeFb19d029c4Bc4c4e7
+      </td>
+      <td>
+        0x32bBc8ba52FB6F61C24809FdeDA1baa5E55e55EA
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2
+      </td>
+      <td>
+        36
+      </td>
+      <td>
+        0xAa445ec9d7c98D850e01d45423B75ADf5de0b256
+      </td>
+      <td>
+        0x32bBc8ba52FB6F61C24809FdeDA1baa5E55e55EA
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EventList Shoulde render a EventList 1`] = `
+<table>
+  <tbody>
+    <tr>
+      <th>
+        #
+      </th>
+      <th>
+        Event ID:
+      </th>
+      <th>
+        Channel Identifier:
+      </th>
+      <th>
+        Event Type: 
+      </th>
+    </tr>
+    <tr
+      className="ChannelOpened"
+    >
+      <td>
+        0
+      </td>
+      <td>
+        log_0xed00bb47865f844856aacec4c5f7f79b404b58839a2f016c24ee0121d561e521
+      </td>
+      <td>
+        2
+      </td>
+      <td>
+        ChannelOpened
+      </td>
+    </tr>
+    <tr
+      className="ChannelSettled"
+    >
+      <td>
+        1
+      </td>
+      <td>
+        log_0xe37b602261c301b249f0be08ab7da077db0d94372ea034278b57eab2ebecda59
+      </td>
+      <td>
+        17
+      </td>
+      <td>
+        ChannelSettled
+      </td>
+    </tr>
+    <tr
+      className="ChannelClosed"
+    >
+      <td>
+        2
+      </td>
+      <td>
+        log_0x8ffb52753f6bef94827718ee9acf0839d92515723e64fe03e44a65e225204e92
+      </td>
+      <td>
+        19
+      </td>
+      <td>
+        ChannelClosed
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
